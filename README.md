@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there I'm dongkyu 👋
 
-<!--
-**kaineus/kaineus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하십니까 웹개발자 나동규입니다.
+오랜시간동안 스프링기반으로 풀스택으로 개발하였습니다.
+팀 리더로서도 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/spring-007396?style=for-the-badge&logo=spring&logoColor=green">
+  <img src="https://img.shields.io/badge/jpa-007396?style=for-the-badge&logo=jpa&logoColor=green">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-007396?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/typescript-007396?style=for-the-badge&logo=typescript&logoColor=skyblue">
+  <img src="https://img.shields.io/badge/svelte-007396?style=for-the-badge&logo=svelte&logoColor=orange">
+</div>
+
+### Learning
+<div style="display:flex;">
+  <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=reactg&logoColor=green">
+</div>
