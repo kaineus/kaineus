@@ -18,5 +18,5 @@
 
 ### Learning
 <div style="display:flex;">
-  <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=reactg&logoColor=green">
+  <img src="https://img.shields.io/badge/react-007396?style=for-the-badge&logo=react&logoColor=green">
 </div>
