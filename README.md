@@ -17,11 +17,11 @@ const dongkyu = {
   role: "Full Stack Developer",
   experience: {
     backend: ["Spring", "JPA", "Java"],
-    frontend: ["JavaScript", "TypeScript", "Svelte"],
-    learning: ["React", "Modern Frontend Architecture"]
+    frontend: ["React", "TypeScript", "JavaScript", "Svelte", "Tailwind CSS"],
+    database: ["MySQL", "PostgreSQL"]
   },
   background: "팀/프로젝트 리더 2-3년 경험",
-  currentFocus: "Frontend Development & Modern Web Technologies",
+  currentFocus: "Modern Frontend Architecture & React Ecosystem",
   philosophy: "코드로 세상을 더 나은 곳으로 만들기 🌟"
 };
 ```
@@ -41,15 +41,13 @@ const dongkyu = {
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Currently Learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Tools & Database
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,16 +66,6 @@ const dongkyu = {
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaineus&layout=compact&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaineus&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kaineus&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
